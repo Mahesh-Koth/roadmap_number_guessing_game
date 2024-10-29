@@ -1,4 +1,4 @@
-#### Welcome to Number Guessing game
+#### Welcome to Number Guessing game (a project from roadmap.sh)
 
 The game works as follows:
 
@@ -39,5 +39,4 @@ Enter your guess: 30
 Congratulations! You guessed the correct number in 4 attempts.
 ```
 
-
-
+URL of the actual project from roadmap.sh : https://roadmap.sh/projects/number-guessing-game
