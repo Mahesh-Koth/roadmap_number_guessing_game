@@ -39,4 +39,9 @@ Enter your guess: 30
 Congratulations! You guessed the correct number in 4 attempts.
 ```
 
+<img width="1039" alt="image" src="https://github.com/user-attachments/assets/4b06b1cc-7e77-4cdd-9995-b9ff322667e1">
+<img width="742" alt="image" src="https://github.com/user-attachments/assets/1f5144dd-a069-4c65-9eaa-e1d5a637c223">
+
+
+
 URL of the actual project from roadmap.sh : https://roadmap.sh/projects/number-guessing-game
